@@ -14,6 +14,7 @@ public class App01GamingBasicJava {
 		var game = new PackmanGame();
 		var gameRunner = new GameRunner(game);
 		gameRunner.run();
+		System.out.println("New Commit");
 
 	}
 
